@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "128622563046",
+    "project_id": "budget-manager-f87c2",
+    "storage_bucket": "budget-manager-f87c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128622563046:android:38b090dcfd49f7d9927527",
+        "android_client_info": {
+          "package_name": "com.example.budgetmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128622563046-03au41s96qsss8nrf952d2quotujjco2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.budgetmanager",
+            "certificate_hash": "bf71d6b4cb1605cfd257f6794fc20ffbb11a97b7"
+          }
+        },
+        {
+          "client_id": "128622563046-bsnd5shjb5qp6sh8fhuittgbvpanm3hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaL-t6LjbDAolhfHgZ3vU4zftJJ9-LtQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128622563046-bsnd5shjb5qp6sh8fhuittgbvpanm3hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

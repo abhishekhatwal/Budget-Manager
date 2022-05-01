@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Budget Manager</string>
+
+    <string-array name="items">
+        <item>select item</item>
+        <item>Transport</item>
+        <item>Food</item>
+        <item>shopping</item>
+        <item>entertainment</item>
+        <item>education</item>
+        <item>health</item>
+        <item>house</item>
+        <item>others</item>
+    </string-array>
+
+    <string-array name="budgetitem">
+        <item>select item</item>
+        <item>savings</item>
+        <item>salary</item>
+        <item>others</item>
+    </string-array>
+
+</resources>
